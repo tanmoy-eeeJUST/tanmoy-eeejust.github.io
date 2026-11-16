@@ -91,3 +91,7 @@ footer { text-align: center; color: var(--muted); font-size: .9rem; padding: 2.5
   .avatar { order: -1; }
   .timeline li, .skills { grid-template-columns: 1fr; }
 }
+
+h3 { font: 600 1.15rem var(--serif); margin: 1.75rem 0 .5rem; color: var(--signal); }
+.pubs a { font-size: .9rem; word-break: break-all; }
+.addr { color: var(--muted); font-size: .95rem; }
